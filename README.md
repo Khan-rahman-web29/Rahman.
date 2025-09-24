@@ -1,3 +1,3 @@
 # Rahman.
-This is my first Git Repository
-author - Rahman khan
+This is my first Git Repository.
+Author - Rahman khan
